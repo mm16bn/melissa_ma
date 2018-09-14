@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{E7B0CF7A-11F2-3715-B961-B569AD0467D9}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/_Scene1/PlayerMovement_Rotate.cs">
     <Files>
       <File FileName="Assets/Scenes/Scripts/PlayerController.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scenes/_Scene1/PlayerMovement_Rotate.cs" Line="10" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -61,7 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scenes\_Scene0\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scenes\_Scene1\PlayerMovement_Rotate.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/fulluser/Documents/2018-2019/DIG3725/melissa_ma/Assignment4/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
