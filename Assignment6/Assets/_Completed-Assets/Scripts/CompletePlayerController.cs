@@ -93,8 +93,8 @@ public class CompletePlayerController : MonoBehaviour {
 
 
 		//Check if we've collected all 12 pickups. If we have...
-		//if (count >= 12)
-			////... then set the text property of our winText object to "You win!"
-			//winText.text = "You win!";
+		if (score >= 61)
+			//... then set the text property of our winText object to "You win!"
+			winText.text = "YAY! YOU SAVED THE PLANET!";
 	}
 }
